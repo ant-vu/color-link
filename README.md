@@ -6,8 +6,8 @@ Color Link is a memorization game from Elite League S2 using JS.
 
 ## **License**
 
-Portfolio is released under the MIT License. See the **[LICENSE](https://github.com/ant-vu/color-link/blob/main/LICENSE)** file for details.
+Color Link is released under the MIT License. See the **[LICENSE](https://github.com/ant-vu/color-link/blob/main/LICENSE)** file for details.
 
 ## **Author**
 
-Portfolio was created by **[Anthony Vu](https://github.com/ant-vu)**.
+Color Link was created by **[Anthony Vu](https://github.com/ant-vu)**.
